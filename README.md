@@ -11,27 +11,27 @@
 </p>
 
 <p align="center">
-  <a title="Frontend Developer">
-    <img src="https://img.shields.io/badge/-Frontend%20Developer-1e1e1e?style=for-the-badge&logo=frontendmentor&logoColor=00ffcc" />
+  <a title="React Developer">
+    <img src="https://img.shields.io/badge/-React%20Developer-1e1e1e?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
-  <a title="Software Engineer">
-    <img src="https://img.shields.io/badge/-Software%20Engineer-1e1e1e?style=for-the-badge&logo=googlechrome&logoColor=ff6f00" />
+  <a title="Next.js Developer">
+    <img src="https://img.shields.io/badge/-Next.js-1e1e1e?style=for-the-badge&logo=next.js&logoColor=ffffff" />
   </a>
-  <a title="Responsive Web Design">
-    <img src="https://img.shields.io/badge/-Responsive%20Web%20Design-1e1e1e?style=for-the-badge&logo=html5&logoColor=e34f26" />
+  <a title="Tailwind CSS">
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-1e1e1e?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
   </a>
-  <a title="UI Development">
-    <img src="https://img.shields.io/badge/-UI%20Development-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <a title="Node.js">
+    <img src="https://img.shields.io/badge/-Node.js-1e1e1e?style=for-the-badge&logo=node.js&logoColor=83CD29" />
   </a>
   <br/>
-  <a title="JavaScript Development">
-    <img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <a title="Frontend Engineer">
+    <img src="https://img.shields.io/badge/-Frontend%20Engineer-1e1e1e?style=for-the-badge&logo=frontendmentor&logoColor=00ffcc" />
   </a>
-  <a title="Creative Web Experiences">
-    <img src="https://img.shields.io/badge/-Creative%20Web%20Experiences-1e1e1e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <a title="Full Stack Development">
+    <img src="https://img.shields.io/badge/-Full%20Stack%20Development-1e1e1e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   </a>
-  <a title="Always Learning">
-    <img src="https://img.shields.io/badge/-Always%20Learning-1e1e1e?style=for-the-badge&logo=github&logoColor=00ff99" />
+  <a title="Modern Web Apps">
+    <img src="https://img.shields.io/badge/-Modern%20Web%20Apps-1e1e1e?style=for-the-badge&logo=googlechrome&logoColor=ff6f00" />
   </a>
 </p>
 
@@ -44,18 +44,18 @@
 <table align="center">
   <tr align="center">
     <td>
-      <img src="https://skillicons.dev/icons?i=html" width="50" title="Frontend Development" /><br/>
-      <b>Frontend Development</b>
+      <img src="https://skillicons.dev/icons?i=react" width="50" title="React Apps" /><br/>
+      <b>React Apps</b>
     </td>
     <td width="40"></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js" width="50" title="JavaScript Projects" /><br/>
-      <b>JavaScript Projects</b>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50" title="Next.js Projects" /><br/>
+      <b>Next.js Projects</b>
     </td>
     <td width="40"></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma" width="50" title="UI/UX Interfaces" /><br/>
-      <b>UI/UX Interfaces</b>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind UI" /><br/>
+      <b>Tailwind UI</b>
     </td>
   </tr>
 </table>
@@ -70,19 +70,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1726&height=100&section=header&text=🧠%20My%20Tech%20Stack&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
-<h3 align="center">🖥️ Languages</h3>
+<h3 align="center">🖥️ Core Technologies</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,js,ts" alt="Core Technologies" />
 </p>
 
-<h3 align="center">⚙️ Frameworks & Tools</h3>
+<h3 align="center">⚙️ Tools & Workflow</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,jquery,git,vscode,figma" alt="Frameworks and Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" alt="Tools and Workflow" />
 </p>
 
-<h3 align="center">☁️ Platforms & Database</h3>
+<h3 align="center">☁️ Deployment & Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,mysql,vercel,github" alt="Platforms and Database" />
+  <img src="https://skillicons.dev/icons?i=vercel,firebase,mongodb,express,linux" alt="Deployment and Backend" />
 </p>
 
 <p align="center">
@@ -119,17 +119,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arishhh&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ff99" alt="Top Languages" />
 </p>
 
-<p align="center"><em>“Building clean, responsive, and meaningful digital experiences.”</em></p>
+<p align="center"><em>“Building fast, scalable, and modern web experiences.”</em></p>
 
 ---
 
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  💼 Frontend Developer / Software Engineer <br/>
-  📍 Karachi, Pakistan <br/>
-  🎯 Open to opportunities and collaborative projects <br/>
-  🌐 Passionate about modern, responsive, user-focused web experiences
+  💼 React / Next.js Developer <br/>
+  ⚡ Building modern frontend and full stack applications <br/>
+  🎨 Focused on clean UI, performance, and responsive design <br/>
+  🌱 Currently working with React, Next.js, Tailwind CSS, and Node.js
 </p>
 
 ---
@@ -147,7 +147,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.impulsionstudio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-1e1e1e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
   </a>
 </p>
 
@@ -156,5 +156,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%92%9A+Code+with+Purpose-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%92%A1+Build+with+Creativity-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%A2+Keep+Learning-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A2+Keep+Shipping-yellow?style=for-the-badge" />
 </p>
