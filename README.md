@@ -1,6 +1,6 @@
 <h1 align="center">Arish Ali</h1>
 <p align="center">
-  Frontend Developer | React • Next.js • Tailwind CSS • Node.js • SaaS Builder
+  Frontend Developer | React • Next.js • Tailwind CSS • Node.js • SaaS Builder • Vibe Coder
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@ Focused on:
 
 **Frontend:** React.js, Next.js, Tailwind CSS, JavaScript  
 **Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, VS Code, Postman, Figma  
+**Database:** MongoDB, Supabase, MySql  
+**Tools:** Git, GitHub, VS Code, Figma  
 
 ---
 
