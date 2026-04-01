@@ -45,17 +45,19 @@ Focused on:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arishhh&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arishhh&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arishhh&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
+  <table style="border-radius: 16px; overflow: hidden; border: 2px solid #0ef7ff; background: #1e1e2f; max-width: 500px;">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img
+          src="https://streak-stats.demolab.com/?user=arishhh&theme=transparent&hide_border=true&ring=ff6ec7&fire=ff6ec7&currStreakNum=00ff99&sideNums=0ef7ff&currStreakLabel=ff6ec7&sideLabels=00ff99&stroke=00ff99&dates=ffffff"
+          alt="Current Streak"
+          width="500px"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
